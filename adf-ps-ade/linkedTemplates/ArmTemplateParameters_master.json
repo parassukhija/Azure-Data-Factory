@@ -1,0 +1,30 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "adf-ps-ade"
+		},
+		"ADLS_LS_RAW_accountKey": {
+			"value": ""
+		},
+		"ADLS_LS_STAGE_accountKey": {
+			"value": ""
+		},
+		"sql02stgdb_LS_connectionString": {
+			"value": ""
+		},
+		"ADLS_LS_RAW_properties_typeProperties_url": {
+			"value": "https://adlspsade.dfs.core.windows.net/"
+		},
+		"ADLS_LS_STAGE_properties_typeProperties_url": {
+			"value": "https://adlspsade.dfs.core.windows.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
