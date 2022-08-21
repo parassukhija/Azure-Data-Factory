@@ -1,5 +1,5 @@
 {
-	"name": "Parquet1",
+	"name": "Employee_Source_DS",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "ADLS_LS_STAGE",

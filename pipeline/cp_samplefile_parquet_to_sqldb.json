@@ -40,13 +40,13 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "Parquet1",
+						"referenceName": "Employee_Source_DS",
 						"type": "DatasetReference"
 					}
 				],
 				"outputs": [
 					{
-						"referenceName": "Employee_DS",
+						"referenceName": "Employee_Destination_DS",
 						"type": "DatasetReference"
 					}
 				]
