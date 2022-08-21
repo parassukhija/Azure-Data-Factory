@@ -1,0 +1,9 @@
+{
+	"name": "adf-ps-ade",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6dfdee8d-d793-47bd-a307-bcad811f2392",
+		"tenantId": "0d86fb90-c036-462f-bac0-241679488162"
+	}
+}
